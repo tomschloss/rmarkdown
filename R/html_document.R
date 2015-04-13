@@ -242,7 +242,9 @@ themes <- function() {
     "readable",
     "spacelab",
     "united",
-    "cosmo")
+    "cosmo",
+    "paper",
+    "sandstone")
 }
 
 html_highlighters <- function() {
